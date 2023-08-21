@@ -33,3 +33,6 @@
 <br><br>
 
 
+## 📝 회고록
+👉🏻 <a href="https://cyjcyj.tistory.com/141" target="_blank">블로그 회고록 보러가기</a>
+<br><br>
